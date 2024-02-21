@@ -1,0 +1,64 @@
+.articles {
+    box-shadow: 0px 2px 2px 2px #909497;
+    
+    border-radius: 1%;
+    margin-bottom: 1em;
+    
+}
+
+.articles a {
+    color: darkslategray;
+    text-decoration: none;
+}
+
+.post {
+    padding: 1em;
+}
+
+.article-info {
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid grey;
+    padding: 0.5em;
+    justify-items: center;
+    align-content: center;
+    
+}
+
+article {
+    display: flex;
+    align-items: center;
+}
+
+.upvotes {
+    display: grid;
+    grid-template-columns: auto;
+    padding: 1em;
+    justify-items: center;
+}
+
+.upvote-amount {
+    padding: 0.5em;
+}
+
+.comments-overview {
+    display: flex;
+    align-items: center;
+   
+}
+
+.author-info {
+    display: flex;
+    align-items: center;
+}
+
+.author {
+    padding: 0.5em;
+}
+
+.num-comments {
+    padding: 0.5em;
+}
+
+
+

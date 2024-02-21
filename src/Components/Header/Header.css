@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    box-shadow: 0px 0px 5px 0px #909497;
+    
+}
+
+.title-left {
+    flex: 1;
+    padding: 0 1em;
+    
+   
+}
+
+.searchBar-centre {
+    margin: 0 1em;
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    width: 30%;
+    justify-content: center;
+    
+}
+
+.right {
+    flex: 1;
+    padding: 1em;
+    ;
+}
+
+
